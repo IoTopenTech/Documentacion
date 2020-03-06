@@ -1,5 +1,7 @@
 # Documentacion
 
-En este repositorio reecopilamos la informaci贸n general sobre The Things Network Madrid.
+En este repositorio reecopilamos la informaci脙鲁n general sobre The Things Network Madrid.
 
-UWB: Presentaci髇 de Manuel Prados y Pedro L髉ez sobre los sistemas de posicionamiento indoor por Ultra Wide Band; en concreto los de DecaWave.
+UWB: Presentaci贸n de Manuel Prados y Pedro L贸pez sobre los sistemas de posicionamiento indoor por Ultra Wide Band; en concreto los de DecaWave.
+
+ThingsBoard_integraciones: Presentaci贸n sobre c贸mo integrar TTN con ThingsBoard y enviar notificaciones a trav茅s de IFTTT y Telegram.
